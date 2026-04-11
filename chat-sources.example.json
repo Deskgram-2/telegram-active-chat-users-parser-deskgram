@@ -1,0 +1,11 @@
+{
+  "chat_sources": [
+    "@example_chat_one",
+    "@example_chat_two"
+  ],
+  "filters": {
+    "skip_duplicates": true,
+    "collect_recently_active_only": true
+  },
+  "workflow_note": "Такую базу удобно использовать для анализа активности, сегментации и дальнейшей коммуникации."
+}
