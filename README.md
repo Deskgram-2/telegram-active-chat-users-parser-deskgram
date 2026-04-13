@@ -37,6 +37,14 @@
 4. Запустите задачу и следите за логом.
 5. Используйте результат в сборе, коммуникации или инвайте.
 
+## Что обычно идет после такого сбора
+
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если активная база нужна для прямой коммуникации;
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram), если дальше нужен AI-диалог с более теплой аудиторией;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если активные участники ведут в рост групп и каналов;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно заранее распределить рабочую сетку аккаунтов;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если вы контролируете цепочку “сбор -> коммуникация -> рост” как единый поток.
+
 ## Как устроен сценарий
 
 ### Список чатов
@@ -73,6 +81,9 @@
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
